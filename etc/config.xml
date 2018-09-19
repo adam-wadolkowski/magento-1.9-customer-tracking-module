@@ -1,0 +1,11 @@
+<frontend>
+    <routers>
+        <weblog>
+            <use>standard</use>
+            <args>
+                <module>CustomerTrackingInProductCard</module>
+                <frontName>CustomerTracking</frontName>
+            </args>
+        </weblog>
+    </routers>
+</frontend>
